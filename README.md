@@ -15,7 +15,7 @@ Cette interface consomme les endpoints exposés par l’API travel_cooperative_a
 
 -  Fonctionnalités principales
 
-- Authentification des administrateurs et compagnies (connexion via JWT).
+- Authentification des administrateurs et compagnies.
 
 -  Gestion des trajets (ajout, modification, suppression).
 
